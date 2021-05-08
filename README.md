@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# DockerMySQLSpringBootApp
-=======
+
 # Springboot Simple REST CURD demo with spring boot built in methods
 
 ```
